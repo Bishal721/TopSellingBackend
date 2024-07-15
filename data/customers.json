@@ -1,0 +1,194 @@
+[
+  {
+    "customerId": "001",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phoneNumber": "123-456-7890",
+    "purchases": [
+      {
+        "date": "2024-07-01T00:00:00Z",
+        "amount": 50.0
+      },
+      {
+        "date": "2024-07-10T00:00:00Z",
+        "amount": 60.0
+      },
+      {
+        "date": "2024-07-20T00:00:00Z",
+        "amount": 70.0
+      }
+    ]
+  },
+  {
+    "customerId": "002",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phoneNumber": "987-654-3210",
+    "purchases": [
+      {
+        "date": "2024-07-03T00:00:00Z",
+        "amount": 75.0
+      }
+    ]
+  },
+  {
+    "customerId": "003",
+    "name": "Alice Brown",
+    "email": "alice@example.com",
+    "phoneNumber": "555-666-7777",
+    "purchases": [
+      {
+        "date": "2024-07-12T00:00:00Z",
+        "amount": 100.0
+      },
+      {
+        "date": "2024-07-15T00:00:00Z",
+        "amount": 200.0
+      }
+    ]
+  },
+  {
+    "customerId": "004",
+    "name": "Bob White",
+    "email": "bob@example.com",
+    "phoneNumber": "444-555-6666",
+    "purchases": [
+      {
+        "date": "2024-06-01T00:00:00Z",
+        "amount": 150.0
+      },
+      {
+        "date": "2024-06-15T00:00:00Z",
+        "amount": 50.0
+      },
+      {
+        "date": "2024-07-01T00:00:00Z",
+        "amount": 80.0
+      },
+      {
+        "date": "2024-07-10T00:00:00Z",
+        "amount": 120.0
+      },
+      {
+        "date": "2024-07-20T00:00:00Z",
+        "amount": 100.0
+      }
+    ]
+  },
+  {
+    "customerId": "005",
+    "name": "Carol Green",
+    "email": "carol@example.com",
+    "phoneNumber": "333-444-5555",
+    "purchases": [
+      {
+        "date": "2024-05-20T00:00:00Z",
+        "amount": 30.0
+      }
+    ]
+  },
+  {
+    "customerId": "006",
+    "name": "David Black",
+    "email": "david@example.com",
+    "phoneNumber": "222-333-4444",
+    "purchases": [
+      {
+        "date": "2024-06-01T00:00:00Z",
+        "amount": 60.0
+      },
+      {
+        "date": "2024-06-10T00:00:00Z",
+        "amount": 70.0
+      },
+      {
+        "date": "2024-06-20T00:00:00Z",
+        "amount": 50.0
+      },
+      {
+        "date": "2024-07-01T00:00:00Z",
+        "amount": 80.0
+      },
+      {
+        "date": "2024-07-10T00:00:00Z",
+        "amount": 90.0
+      }
+    ]
+  },
+  {
+    "customerId": "007",
+    "name": "Eve Adams",
+    "email": "eve@example.com",
+    "phoneNumber": "111-222-3333",
+    "purchases": [
+      {
+        "date": "2024-07-01T00:00:00Z",
+        "amount": 110.0
+      },
+      {
+        "date": "2024-07-10T00:00:00Z",
+        "amount": 90.0
+      },
+      {
+        "date": "2024-07-20T00:00:00Z",
+        "amount": 120.0
+      }
+    ]
+  },
+  {
+    "customerId": "008",
+    "name": "Frank Moore",
+    "email": "frank@example.com",
+    "phoneNumber": "777-888-9999",
+    "purchases": [
+      {
+        "date": "2024-05-10T00:00:00Z",
+        "amount": 40.0
+      },
+      {
+        "date": "2024-06-15T00:00:00Z",
+        "amount": 50.0
+      }
+    ]
+  },
+  {
+    "customerId": "009",
+    "name": "Grace Hill",
+    "email": "grace@example.com",
+    "phoneNumber": "999-888-7777",
+    "purchases": [
+      {
+        "date": "2024-06-01T00:00:00Z",
+        "amount": 70.0
+      },
+      {
+        "date": "2024-06-10T00:00:00Z",
+        "amount": 80.0
+      },
+      {
+        "date": "2024-06-20T00:00:00Z",
+        "amount": 90.0
+      },
+      {
+        "date": "2024-07-01T00:00:00Z",
+        "amount": 100.0
+      },
+      {
+        "date": "2024-07-10T00:00:00Z",
+        "amount": 110.0
+      }
+    ]
+  },
+  {
+    "customerId": "010",
+    "name": "Hank Lee",
+    "email": "hank@example.com",
+    "phoneNumber": "666-777-8888",
+    "purchases": [
+      {
+        "date": "2024-06-15T00:00:00Z",
+        "amount": 130.0
+      }
+    ]
+  }
+]

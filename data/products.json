@@ -1,0 +1,92 @@
+[
+  {
+    "productId": "P003",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Kitchenware",
+    "price": 15.99,
+    "unitsSold": 1800,
+    "description": "A durable and reusable stainless steel water bottle.",
+    "imageUrl": "https://images.unsplash.com/photo-1610399809302-f1dd7ec33187?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RhaW5sZXNzJTIwc3RlZWwlMjBib3R0bGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "productId": "P001",
+    "name": "Eco-friendly Bamboo Toothbrush",
+    "category": "Personal Care",
+    "price": 3.99,
+    "unitsSold": 1500,
+    "description": "A biodegradable bamboo toothbrush with soft bristles.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664527305506-8ba42e75100a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFtYm9vJTIwdG9vdGhicnVzaGVzfGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P002",
+    "name": "Reusable Cotton Tote Bag",
+    "category": "Accessories",
+    "price": 7.99,
+    "unitsSold": 1200,
+    "description": "A stylish and eco-friendly tote bag made from organic cotton.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1681233752347-c52c7815eb63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UmV1c2FibGUlMjBDb3R0b24lMjBUb3RlJTIwQmFnfGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P004",
+    "name": "Eco-friendly Beeswax Food Wraps",
+    "category": "Kitchenware",
+    "price": 10.99,
+    "unitsSold": 900,
+    "description": "Reusable beeswax wraps for sustainable food storage.",
+    "imageUrl": "https://images.unsplash.com/photo-1632142334452-7efccdbf9a1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlc3dheCUyMEZvb2QlMjBXcmFwc3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "productId": "P005",
+    "name": "Organic Cotton T-shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "unitsSold": 800,
+    "description": "A soft and comfortable T-shirt made from organic cotton.",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y290dG9uJTIwVHNoaXJ0fGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P006",
+    "name": "Compostable Phone Case",
+    "category": "Accessories",
+    "price": 12.99,
+    "unitsSold": 700,
+    "description": "A phone case made from compostable materials.",
+    "imageUrl": "https://images.unsplash.com/photo-1593055454503-531d165c2ed8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UGhvbmUlMjBDYXNlfGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P007",
+    "name": "Bamboo Cutlery Set",
+    "category": "Kitchenware",
+    "price": 8.99,
+    "unitsSold": 600,
+    "description": "A portable cutlery set made from bamboo.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1668432374007-37669afd11ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEJhbWJvbyUyMGN1dGxlcnklMjBzZXR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "productId": "P008",
+    "name": "Eco-friendly Laundry Detergent",
+    "category": "Cleaning Supplies",
+    "price": 9.99,
+    "unitsSold": 500,
+    "description": "A biodegradable and eco-friendly laundry detergent.",
+    "imageUrl": "https://images.unsplash.com/photo-1624372635310-01d078c05dd9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGV0ZXJnZW50fGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P009",
+    "name": "Solar Powered Charger",
+    "category": "Electronics",
+    "price": 24.99,
+    "unitsSold": 400,
+    "description": "A portable solar powered charger for electronic devices.",
+    "imageUrl": "https://images.unsplash.com/photo-1692052480358-235419613e4d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29sYXIlMjBjaGFyZ2VyfGVufDB8fDB8fHww"
+  },
+  {
+    "productId": "P010",
+    "name": "Recycled Paper Notebook",
+    "category": "Stationery",
+    "price": 5.99,
+    "unitsSold": 300,
+    "description": "A notebook made from 100% recycled paper.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1685136482569-a59b03025108?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFwZXIlMjBub3RlYm9va3xlbnwwfHwwfHx8MA%3D%3D"
+  }
+]
